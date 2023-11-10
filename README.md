@@ -71,7 +71,7 @@ You can click the Preview link to take a look at your changes.
       width="40" height="40" /> </a>
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php.svg" alt="php"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="php"
       width="40" height="40" /> </a>
       
   </p>

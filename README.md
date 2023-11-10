@@ -68,10 +68,7 @@ You can click the Preview link to take a look at your changes.
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a>
-
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="php"
-      width="40" height="40" />  </a>
+      width="40" height="40" /> </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="php" width="40" height="40" />  </a>
       
   </p>
 

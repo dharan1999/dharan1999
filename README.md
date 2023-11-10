@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I have experience working in HTML, CSS, Javascript, React.js, Express.js, Mongodb, Apache Spark, React Native, Java, Python
+- 🌱 I have experience working in HTML, CSS, Javascript, React.js, Express.js, Mongodb, Apache Spark, PHP, React Native, Java, Python
 
 - 📫 How to reach me **dharanthaker@outlook.com**
 

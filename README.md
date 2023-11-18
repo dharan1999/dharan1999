@@ -73,18 +73,20 @@ You can click the Preview link to take a look at your changes.
   </p>
 
 <br>
-
+<!--
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=dharan1999&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="dharan1999" 
     bg_color=#808080/></p>
-
+-->
+<!--
 <br>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharan1999&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="dharan1999" /></p> -->
-
+-->
+<!--
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharan1999&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="dharan1999" /></p> 
+-->
 <br>
 
 

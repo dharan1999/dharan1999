@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Dharan Thaker</h1>
-<h3 align="center">Student at Concordia University, Montreal🌟.</h3>
+
 
 <!-- <br>
 
